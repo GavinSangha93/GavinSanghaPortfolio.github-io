@@ -32,20 +32,6 @@ This repository contains my personal analytics portfolio website. It presents se
 - GitHub Pages
 - Responsive HTML5 UP template customized for this portfolio
 
-## Repository Structure
-
-```text
-.
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── sass/
-│   └── webfonts/
-├── images/
-├── LICENSE.txt
-└── README.md
-```
 
 ## Contact
 

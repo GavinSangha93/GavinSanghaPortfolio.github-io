@@ -1,6 +1,6 @@
 # Gavin Sangha — Business, Data & Operations Analytics Portfolio
 
-This repository contains my personal analytics portfolio website. It brings together professional experience in operations and marketing analytics with projects in SQL, Excel, Tableau, and Power BI.
+This repository contains my personal analytics portfolio website. It brings together professional experience in operations, fraud analysis, and independent client work with projects in SQL, Excel, Tableau, and Power BI.
 
 ## Live Website
 
